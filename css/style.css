@@ -1,0 +1,44 @@
+.header{
+	min-height: 100px;
+	background-color: red;
+}
+.wrapper{
+		overflow:hidden;}
+.contact{
+		min-height: 150px;
+		background-color: green;
+		width:52%;
+		float: left	;
+}
+.vlog{
+		min-height: 150px;
+		background-color: blue;
+		width:48%;
+		float:right;
+}
+
+.container{
+		overflow: hidden;
+}
+.single{
+		min-height: 100px;
+		width: 	30.33%;
+		float: 	left;
+		
+		border: 20px solid cyan;
+
+}
+.pink{
+		background-color: pink ; 
+}
+.orange{
+		background-color: orange;
+}
+.yellow{
+		background-color: yellow;
+}
+
+.footer{
+		min-height: 180px;
+		background-color: black;
+}
